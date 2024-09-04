@@ -1,4 +1,4 @@
-#Project Description
+# Project Description
 
 This project is a Text-to-Image Generator that utilizes a diffusion model to create high-quality images based on user-provided text prompts. The model takes various input parameters, including prompt text, strength, CFG scale, sampler type, and seed, to generate detailed and customizable images.
 
