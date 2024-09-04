@@ -1,5 +1,7 @@
 # Project Description
 
+## Text to Image generation
+
 This project is a Text-to-Image Generator that utilizes a diffusion model to create high-quality images based on user-provided text prompts. The model takes various input parameters, including prompt text, strength, CFG scale, sampler type, and seed, to generate detailed and customizable images.
 
 The project uses Gradio to provide an interactive web-based interface, making it easy for users to input their parameters and view the generated images instantly. The model is built on top of state-of-the-art diffusion techniques and leverages the CLIPTokenizer for text processing.
