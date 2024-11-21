@@ -23,4 +23,4 @@ This is the visualization of code just give the prompt and it will generate you 
 
 ### Generated Image
 ![Screenshot 2024-09-05 034432](https://github.com/user-attachments/assets/c7ff1326-312f-4763-975f-8225391734b9)
-![style_transfer](https://github.com/user-attachments/assets/57ee3c4b-b920-4ff0-b6f5-8e96a54bb484)
+
