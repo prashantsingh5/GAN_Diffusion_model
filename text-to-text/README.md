@@ -15,7 +15,7 @@ Key Features:
 
 link:
 Download weights and tokenizer files:
-Download v1-5-pruned-emaonly.ckpt from [https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main) and save it in the data folder
+Download v1-5-pruned-emaonly.ckpt from [https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main](https://huggingface.co/LarryAIDraw/v1-5-pruned-emaonly/blob/main/v1-5-pruned-emaonly.ckpt) and save it in the data folder
 
 This is the visualization of code just give the prompt and it will generate you image
 ### Using Text Generating Image
